@@ -18,7 +18,7 @@ https://eui9179.notion.site/eb10b4a8af8d4856b25d000b390748f9
 
 📅 작업기간: 2022.5 ~ 2022.11(리팩토링중)
 
-👨🏻‍💻 투입인원: 3명
+👨🏻‍💻 투입인원: 1명
 
 💻 주요업무
 
@@ -31,4 +31,5 @@ https://eui9179.notion.site/eb10b4a8af8d4856b25d000b390748f9
 🔧 스킬 및 사용툴
 
  `springboot` `mysql` `docker` `flutter` `git`
+
 
